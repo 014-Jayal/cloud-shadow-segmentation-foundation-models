@@ -70,11 +70,11 @@ We evaluate multiple approaches:
 
 ### CloudSen12
 
-![CloudSen12 Results](results/cloudsen12/qualitative/comparison.png)
+![CloudSen12 Results](results/cloudsen12/qualitative/1.png)
 
 ### LISS-4
 
-![LISS-4 Results](results/liss4/qualitative/comparison.png)
+![LISS-4 Results](results/liss4/qualitative/2.png)
 
 ---
 
