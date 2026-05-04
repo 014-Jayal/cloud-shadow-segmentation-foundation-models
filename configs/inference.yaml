@@ -1,0 +1,10 @@
+model:
+  checkpoint: checkpoints/model.pth
+
+inference:
+  patch_size: 224
+  stride: 112
+
+paths:
+  input: data/sample.tif
+  output: results/pred.png

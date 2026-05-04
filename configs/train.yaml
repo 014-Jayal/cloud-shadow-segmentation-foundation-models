@@ -1,0 +1,22 @@
+model:
+  type: prithvi
+  num_classes: 3
+
+training:
+  epochs: 20
+  batch_size: 8
+  lr: 0.0001
+
+data:
+  train_images: data/train/images
+  train_masks: data/train/masks
+  val_images: data/val/images
+  val_masks: data/val/masks
+
+loss:
+  type: hybrid
+  alpha: 0.5
+
+inference:
+  patch_size: 224
+  stride: 112
